@@ -7,3 +7,4 @@ CON filter=lfs diff=lfs merge=lfs -text
 AGUA/COMMS filter=lfs diff=lfs merge=lfs -text
 RESOURCES/WEBSITE/VcA_Website/Media/VIDEO/VCA filter=lfs diff=lfs merge=lfs -text
 WEBSITE filter=lfs diff=lfs merge=lfs -text
+Media/VIDEO/*.mp4 filter=lfs diff=lfs merge=lfs -text
